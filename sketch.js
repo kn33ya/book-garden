@@ -160,7 +160,7 @@ class Tree {
 
     // Draw the feeling shape at the end of each branch
     if (b.kids === 0 && b.grow >= 1){
-      drawFeeling(this.feeling, b.x1, b.y1, 5, this.colorAtDepth(b.depth));
+      drawFeeling(this.feeling, b.x1, b.y1, 2.8 * this.fade, this.colorAtDepth(b.depth));
     }
   }
 
