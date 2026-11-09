@@ -9,7 +9,7 @@ let genreColors = {
   Fantasy: "#7F77DD",
   Adventure: "#ef9f27",
   Romance: "#d4537e",
-  Historical: "#ba7517",
+  Historical: "#000280",
   "Non-Fiction": "#378add",
   Thriller: "#5f5e5a",
   Fiction: "#1d9e75"
