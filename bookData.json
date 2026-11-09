@@ -1,0 +1,130 @@
+[
+  {
+    "Title": "Name of the Wind",
+    "Genre": "Fantasy, Adventure",
+    "Pages": 662,
+    "Spice": "no",
+    "Time": 8,
+    "Feeling": "need more"
+  },
+  {
+    "Title": "Blackout",
+    "Genre": "Romance",
+    "Pages": 256,
+    "Spice": "no",
+    "Time": 1,
+    "Feeling": "appalled"
+  },
+  {
+    "Title": "Open Water",
+    "Genre": "Romance",
+    "Pages": 176,
+    "Spice": "no",
+    "Time": 1,
+    "Feeling": "fulfilled"
+  },
+  {
+    "Title": "ACOTAR",
+    "Genre": "Romance, Fantasy",
+    "Pages": 432,
+    "Spice": "yes",
+    "Time": 2,
+    "Feeling": "appalled"
+  },
+  {
+    "Title": "Onyx Storm",
+    "Genre": "Romance, Fantasy",
+    "Pages": 663,
+    "Spice": "yes",
+    "Time": 4,
+    "Feeling": "need more"
+  },
+  {
+    "Title": "Song of Achilles",
+    "Genre": "Fantasy, Historical, Romance",
+    "Pages": 384,
+    "Spice": "no",
+    "Time": 4,
+    "Feeling": "sad"
+  },
+  {
+    "Title": "Bunny",
+    "Genre": "Fiction",
+    "Pages": 320,
+    "Spice": "no",
+    "Time": 2,
+    "Feeling": "surprised"
+  },
+  {
+    "Title": "In Open Contempt",
+    "Genre": "Non-Fiction",
+    "Pages": 256,
+    "Spice": "no",
+    "Time": 2,
+    "Feeling": "sad"
+  },
+  {
+    "Title": "Iron Flame",
+    "Genre": "Romance, Fantasy",
+    "Pages": 923,
+    "Spice": "yes",
+    "Time": 4,
+    "Feeling": "sad"
+  },
+  {
+    "Title": "If Beale Street Could Talk",
+    "Genre": "Fiction",
+    "Pages": 192,
+    "Spice": "no",
+    "Time": 1,
+    "Feeling": "fulfilled"
+  },
+  {
+    "Title": "My Sister, The Serial Killer",
+    "Genre": "Thriller",
+    "Pages": 240,
+    "Spice": "no",
+    "Time": 1,
+    "Feeling": "surprised"
+  },
+  {
+    "Title": "Sula",
+    "Genre": "Historical, Fiction",
+    "Pages": 192,
+    "Spice": "no",
+    "Time": 1,
+    "Feeling": "angry"
+  },
+  {
+    "Title": "Ace of Spades",
+    "Genre": "Thriller",
+    "Pages": 432,
+    "Spice": "no",
+    "Time": 1,
+    "Feeling": "fulfilled"
+  },
+  {
+    "Title": "Seven Days in June",
+    "Genre": "Romance",
+    "Pages": 336,
+    "Spice": "yes",
+    "Time": 1,
+    "Feeling": "fulfilled"
+  },
+  {
+    "Title": "Fourth Wing",
+    "Genre": "Romance, Fantasy",
+    "Pages": 646,
+    "Spice": "yes",
+    "Time": 2,
+    "Feeling": "need more"
+  },
+  {
+    "Title": "Before the Coffee gets Cold",
+    "Genre": "Fiction",
+    "Pages": 272,
+    "Spice": "no",
+    "Time": 1,
+    "Feeling": "fulfilled"
+  }
+]
